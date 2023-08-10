@@ -10,6 +10,8 @@ void falsePosition(double a, double b, int i);
 
 void secant(double a, double b, int i);
 
+void fixedPosition(double a);
+
 int main()
 {
     int i, n=100;
